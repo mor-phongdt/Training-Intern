@@ -9,8 +9,9 @@ Xin chào mọi người, đây là tài liệu training nội bộ được chu
 | [Bài 1: Component Autocomplete]                                          |
 | [Bài 2: Component Dropzone]                                          |
 
-
-
+## Một số yêu cầu thêm
+- Mỗi bài tập các bạn sẽ tạo 1 repo riêng
+- Cách nộp bài tập: Thực hiện đúng Git flow và gửi cho reviewer Pull Request ( PR tạo từ branch mình đang làm --> develop)
 
 ## Tác giả
 
