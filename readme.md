@@ -12,6 +12,7 @@ Xin chào mọi người, đây là tài liệu training nội bộ được chu
 ## Một số yêu cầu thêm
 - Mỗi bài tập các bạn sẽ tạo 1 repo riêng
 - Cách nộp bài tập: Thực hiện đúng Git flow và gửi cho reviewer Pull Request ( PR tạo từ branch mình đang làm --> develop)
+- Vào mỗi cuối tuần sẽ có 1 buổi để chữa bài tập và review lại công việc tuần vừa rồi của các bạn nên cần hiểu rõ những bài tập mình đã làm
 
 ## Tác giả
 
