@@ -7,7 +7,6 @@ Xin chào mọi người, đây là tài liệu training nội bộ được chu
 | Bài viết                                                                       
 | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Bài 1: Component Autocomplete]                                          |
-| ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Bài 2: Dropzone Upload]                                          |
 
 
@@ -26,3 +25,4 @@ Xin chào mọi người, đây là tài liệu training nội bộ được chu
 - Facebook: https://www.facebook.com/Windddd1
 
 [Bài 1: Component Autocomplete]:https://github.com/windddd1/Training-Intern/blob/master/AutoComplete.md
+[Bài 2: Component Dropzone]:https://github.com/windddd1/Training-Intern/blob/master/Dropzone.md
