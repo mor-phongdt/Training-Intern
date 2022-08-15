@@ -9,6 +9,7 @@ Xin chào mọi người, đây là tài liệu training nội bộ được chu
 | [000: Installation]                                          |
 | [001: Component Autocomplete]                                          |
 | [002: Component Dropzone]                                          |
+| [003: Multi Form]                                          |
 
 ## Một số yêu cầu thêm
 - Mỗi bài tập các bạn sẽ tạo 1 repo riêng
