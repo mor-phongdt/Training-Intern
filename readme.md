@@ -6,6 +6,7 @@ Xin chào mọi người, đây là tài liệu training nội bộ được chu
 
 | Bài viết                                                                       
 | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [000: Installation]                                          |
 | [001: Component Autocomplete]                                          |
 | [002: Component Dropzone]                                          |
 
@@ -28,3 +29,4 @@ Xin chào mọi người, đây là tài liệu training nội bộ được chu
 
 [001: Component Autocomplete]:https://github.com/windddd1/Training-Intern/blob/master/AutoComplete.md
 [002: Component Dropzone]:https://github.com/windddd1/Training-Intern/blob/master/Dropzone.md
+[000: Installation]:https://github.com/windddd1/Training-Intern/blob/master/Installation.md
