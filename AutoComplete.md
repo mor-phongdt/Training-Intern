@@ -10,6 +10,7 @@
 
 ## Thực hiện:
 Link Design: https://www.figma.com/file/kzDfkvmAMDCXG1U3SW7KoG/AutoComplete?node-id=0%3A1
+
 ### Yêu cầu:
 - [ ] Khởi tạo UI/UX giống với link figma
 - [ ] Tạo ra được Dropdown có thể chọn từng option
