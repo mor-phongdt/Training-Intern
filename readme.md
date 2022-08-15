@@ -7,7 +7,7 @@ Xin chào mọi người, đây là tài liệu training nội bộ được chu
 | Bài viết                                                                       
 | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Bài 1: Component Autocomplete]                                          |
-| [Bài 2: Dropzone Upload]                                          |
+| [Bài 2: Component Dropzone]                                          |
 
 
 
