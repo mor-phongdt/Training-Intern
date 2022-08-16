@@ -10,6 +10,9 @@ Xin chào mọi người, đây là tài liệu training nội bộ được chu
 | [001: Component Autocomplete]                                          |
 | [002: Component Dropzone]                                          |
 | [003: Multi Form]                                          |
+| [004: Dynamic Component]                                          |
+| [005: Recursive Component]                                          |
+| [006: Drag&Drop]                                          |
 
 ## Một số yêu cầu thêm
 - Mỗi bài tập các bạn sẽ tạo 1 repo riêng
