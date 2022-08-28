@@ -10,9 +10,8 @@ Xin chào mọi người, đây là tài liệu training nội bộ được chu
 | [001: Component Autocomplete]                                          |
 | [002: Component Dropzone]                                          |
 | [003: Multi Form]                                          |
-| [004: Dynamic Component]                                          |
-| [005: Recursive Component]                                          |
-| [006: Drag&Drop]                                          |
+| [004: Recursive Component]                                          |
+| [005: Drag&Drop]                                          |
 
 ## Một số yêu cầu thêm
 - Mỗi bài tập các bạn sẽ tạo 1 repo riêng
@@ -34,4 +33,6 @@ Xin chào mọi người, đây là tài liệu training nội bộ được chu
 [001: Component Autocomplete]:https://github.com/windddd1/Training-Intern/blob/master/AutoComplete.md
 [002: Component Dropzone]:https://github.com/windddd1/Training-Intern/blob/master/Dropzone.md
 [003: Multi Form]: https://github.com/windddd1/Training-Intern/blob/master/MultiForm.md
+[004: Recursive Component]: https://github.com/windddd1/Training-Intern/blob/master/RecursiveComponent.md
+[005: Drag&Drop]: https://github.com/windddd1/Training-Intern/blob/master/Drag%26Drop.md
 [000: Installation]:https://github.com/windddd1/Training-Intern/blob/master/Installation.md
