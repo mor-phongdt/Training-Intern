@@ -42,7 +42,7 @@ Hôm nay mình sẽ chia sẻ cách mình setup môi trường làm việc, exte
 
 - Khi setup môi trường làm việc thì việc đầu tiên là chọn và cái đặt hệ điều hành thì mình chọn Ubuntu là môi trường phổ thông nhất cho mọi người, bất kì ai cũng có thể tiếp cận được. Rất dễ cài các thư viện, các phần mềm hỗ trợ việc coding, sử hữu terminal mạnh mẽ. Còn về window thì hơn cùi vì 1 số cái chưa được hỗ trợ,  Power Shell thì không thể nào bằng được Terminal.Nếu có tài chính dư rả thì mọi ng có thể đầu tư Macbook để được sử dụng MacOS - Đây là sự lựa chọn đối với mình là hoàn hảo nhất vì nó có thể coi là sự dung hoà của  hai hệ điều hành nêu ở trên.
 - Tiếp theo là đến các package bắt buộc để có thể thực hiện việc coding
-  - [NodeJS]: Về NodeJs mọi người nên chú ý version của nó vì có thể mỗi dự án sẽ ưu cầu 1 version NodeJs. Vậy nên nếu được thì hãy sẽ dụng NBM để cài đặt, quản lý các version của NodeJS. Hiện tại thì suggest mọi người dùng v14.19.3
+  - [NodeJS]: Về NodeJs mọi người nên chú ý version của nó vì có thể mỗi dự án sẽ ưu cầu 1 version NodeJs. Vậy nên nếu được thì hãy sẽ dụng NVM để cài đặt, quản lý các version của NodeJS. Hiện tại thì suggest mọi người dùng v14.19.3
   - NPM: Đây là công cụ quản lý cũng như cài đặt các thư viện Javascript (Ngoài ra còn có yarn, tuỳ project và sở thích mỗi người để lựa chọn), Để cài đặt chạy command dưới đây:
     ````
     npm install npm@latest -g
